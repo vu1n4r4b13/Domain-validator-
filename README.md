@@ -21,5 +21,5 @@ usage ;
       python3 200.py
 
 
-
+***   Remember the domain input should be in text file not in singularity.   ***
 
