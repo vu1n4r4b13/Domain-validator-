@@ -9,7 +9,17 @@ This tool in python takes text file input that should consist of scratch domains
 * feel free to report any issue . 
 
 usage ; 
+    
+    °  git clone https://github.com/vu1n4r4b13/Domain-validator-.git
+       
+    °  cd Domain-validator-
+    
+    ° chmod +x 200.py
+    
+    ° python 200.py
+            or
+      python3 200.py
 
-       python 200.py
-           or 
-       python3 200.py
+
+
+
