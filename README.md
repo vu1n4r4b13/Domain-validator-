@@ -3,3 +3,4 @@ This tool in python takes text file input that should consist of scratch domains
 * Remember to install all python modules for efficient working of tool .
 * give exicutive permission to tool by , [ chmod -700 200.py , chmod +x 200.py ]. 
 * feel free to report any issue . 
+<img>
