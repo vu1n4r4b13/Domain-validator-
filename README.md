@@ -4,7 +4,7 @@ This tool in python takes text file input that should consist of bunch of scratc
 
 * Remember to install all python modules for efficient working of tool .
 
-* give exicutive permission to tool by , [ chmod -777 200.py , chmod +x 200.py ]. 
+* give exicutive permission to tool by , [ chmod 777 200.py , chmod +x 200.py ]. 
 
 * feel free to report any issue . 
 
